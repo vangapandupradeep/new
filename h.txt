@@ -1,5 +1,5 @@
 hi
 
-hello eveyone
+hello 
 
-updated at remote repo
+updated at local repo
