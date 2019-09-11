@@ -3,3 +3,5 @@ hi
 hello 
 
 updated at local repo
+
+checking git diff command
